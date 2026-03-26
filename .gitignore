@@ -1,0 +1,24 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java compiled files
+*.class
+
+# Build folders
+target/
+build/
+
+# VS Code
+.vscode/
+
+# Kotlin
+.kotlin
